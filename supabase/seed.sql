@@ -1,0 +1,1 @@
+﻿-- Datos de desarrollo. No incluir secretos ni datos de producciÃ³n.
