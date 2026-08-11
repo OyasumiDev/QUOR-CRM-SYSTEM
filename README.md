@@ -1,4 +1,4 @@
-# WhatsApp Campaign CRM Desktop
+# QUOR CRM Desktop
 
 Aplicación de escritorio modular para crear, programar, ejecutar y medir campañas de marketing por WhatsApp. Permite conectar múltiples cuentas de WhatsApp Business, administrar contactos y listas, personalizar mensajes con variables y consultar estadísticas de envío, entrega y lectura.
 
